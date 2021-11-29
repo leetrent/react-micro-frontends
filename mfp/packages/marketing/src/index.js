@@ -1,1 +1,1 @@
-console.log("[marketing][index.js]");
+import('./bootstrap');
